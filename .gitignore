@@ -1,0 +1,57 @@
+
+# IDE和系统产生的临时文件
+thumbs.db
+.DS_Store
+.vscode
+__pycache__
+
+# 仙境传说客户端目录
+/SaveData
+/System
+/Emblem
+/ScreenShot
+/AI
+/AI_sakray
+/data/luafiles514
+/data/imf
+
+# 仙境传说客户端文件
+/*.exe
+/*.grf
+/licence.txt
+
+# 使用 NEMO 进行 DIFF 后产生的文件
+*.exe.secure.txt
+
+# 使用 C32ASM 生成的备份文件
+*.exe.b*
+
+# 使用 GrfCL 时会自动释放的文件
+/Utility/Bin/GrfCL/msvcp100.dll
+/Utility/Bin/GrfCL/msvcr100.dll
+/Utility/Bin/GrfCL/Resources.*.dll
+/Utility/Bin/GrfCL/tmp
+
+# 进行客户端资源完整性校验时生成的报告文件存放目录
+/Utility/Reports
+
+# 制作 Setup 安装包时生成的临时脚本存放目录
+/Utility/Bin/InnoSetup/Cache
+
+# 制作 Setup 安装包后的输出目录
+/Utility/Output
+
+# 切换客户端工作版本后的备份目录和数据
+/Utility/Patches/Backup
+/Utility/Resources/Databases/RevertData/*.json
+
+# 能够被 LeeClientAgent 自动汉化的翻译后文件
+/Utility/Patches/*/Resource/Translated/System/iteminfo.lub
+/Utility/Patches/*/Resource/Translated/System/iteminfo_sak.lub
+/Utility/Patches/*/Resource/Translated/System/iteminfo_true.lub
+/Utility/Patches/*/Resource/Translated/System/towninfo.lub
+/Utility/Patches/*/Resource/Translated/data/luafiles514/lua files/skillinfoz/skillinfolist.lub
+/Utility/Patches/*/Resource/Translated/data/luafiles514/lua files/skillinfoz/skilldescript.lub
+
+# 用户的配置文件
+/Utility/LeeClientAgent.yml
