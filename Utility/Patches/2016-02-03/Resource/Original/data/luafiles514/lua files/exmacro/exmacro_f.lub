@@ -1,0 +1,14 @@
+
+function GetExMacroFileName(index, str)
+	if index ~= 0 then
+		if 9 < index then
+			index = 1
+		end
+		local obj = SaveData_ExMacro_FileNames[index]
+		if obj == nil and obj ~= "" then
+			return str
+		end
+		return obj
+	end
+	-- GRF Editor Decompiler : CodeReconstructor has failed to identify the usage of this goto 1_[4]
+end
