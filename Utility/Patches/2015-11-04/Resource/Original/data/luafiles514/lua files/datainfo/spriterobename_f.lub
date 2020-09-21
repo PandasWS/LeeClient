@@ -1,0 +1,27 @@
+
+function ReqRobSprName(index)
+	if RobeNameTable[index] == nil then
+		return ""
+	else
+		local NameMsg = RobeNameTable[index]
+		if NameMsg ~= nil then
+			return NameMsg
+		end
+		return ""
+	end
+end
+
+function ReqRobSprName_V2(index, in_bResEnglishName)
+	if in_bResEnglishName == true then
+		if RobeNameTable_Eng[index] == nil then
+			return ""
+		else
+			local NameMsg = RobeNameTable_Eng[index]
+			if NameMsg ~= nil then
+				return NameMsg
+			end
+			return ""
+		end
+	end
+	return ReqRobSprName(index)
+end
