@@ -1,0 +1,41 @@
+257 Use Default Web Browser for <URL>
+6 Force Send Client Hash Packet
+8 Custom Window Title
+9 Disable 1rag1 type parameters (Recommended)
+13 Disable Ragexe Filename Check (Recommended)
+19 Enable Title Bar Menu
+24 Fix Camera Angles (Recommended)
+28 Increase Headgear ViewID
+29 Disable Game Guard (Recommended)
+32 Increase Zoom Out Max
+33 Always Call SelectKoreaClientInfo() (Recommended)
+35 Read Data Folder First
+36 Read msgstringtable.txt (Recommended)
+37 Read questid2display.txt (Recommended)
+38 Remove Gravity Ads (Recommended)
+39 Remove Gravity Logo (Recommended)
+40 Restore Login Window (Recommended)
+41 Disable Nagle Algorithm (Recommended)
+44 Translate Client (Recommended)
+47 Use Ragnarok Icon
+48 Use Plain Text Descriptions (Recommended)
+49 Enable Multiple GRFs (Recommended)
+51 Always Show License Screen
+53 Use Ascii on All LangTypes (Recommended)
+64 @ Bug Fix (Recommended)
+67 Disable Quake skill effect
+69 Extend Npc Dialog Box
+71 Ignore Resource Errors
+72 Ignore Missing Palette Error
+73 Remove Hourly Announce (Recommended)
+84 Remove Serial Display (Recommended)
+86 Only First Login Background
+88 Allow space in guild name
+90 Enable DNS Support (Recommended)
+91 Disconnect to Login Window
+97 Cancel to Login Window (Recommended)
+204 Increase Attack Display
+205 Enable Monster Tables
+213 Disable Help Message on Login (Recommended)
+222 Show Replay Button
+239 Ignore /account: command line argument
