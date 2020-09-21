@@ -1,0 +1,67 @@
+PackageSource:
+  # 是否自动移除"调试版"的登录器主程序 (如果有)?
+  AutoRemoveDebugClient: true
+
+  # 打包之前, 哪个程序文件是启动游戏的入口?
+  # 若保持默认选项: auto 的话, 会自动选择"正常版"的登录器.
+  # 若您没有使用 Import 目录来导入自己的游戏主程序, 那么这里可以不用动.
+  SourceClientName: auto
+
+  # 启动游戏的入口程序在生成打包源的时候会被重命名什么?
+  # 若填写: None 的话, 则程序在打包时不会进行任何重命名操作
+  # 除了 None 这个特殊值外, 打包时会把 SourceClientName 指定的文件进行重命名
+  PublishClientName: LeeClient.exe
+
+ZipConfigure:
+  # 当选择把打包源制作成 zip 压缩包时, 可以使用此选项调整压缩包内的顶级目录名称
+  TopLevelDirName: LeeClient
+
+SetupConfigure: [
+  {
+    # 配置名称, 方便在拥有多套配置时选择使用
+    LeeName: 'LeeClient 默认配置',
+
+    # 安装包唯一编号
+    # 相同编号的安装包在进行覆盖安装时, 卸载项信息会被覆盖. 
+    # 当您每开一个新的服, 那么请务必为这个服生成一个新的编号作为区分
+
+    # 建议采用 GUID 以便最大限度避免和其他人重复
+    # GUID 可通过: https://www.guidgen.com/ 生成
+    # 若程序发现 LeeAppId 的值为 None 时, 将自动创建一个 GUID 并提示您修改
+    LeeAppId: None,
+    
+    # 游戏的名称, 例如: 糯米仙境
+    # 这个名称同时也将是 LeeAppExeName 程序在桌面的快捷方式名称
+    LeeAppName: LeeClient,
+
+    # 游戏的主程序, 可以是客户端, 也可以是更新器
+    LeeAppExeName: LeeClient.exe,
+
+    # 即将制作的安装包的版本号信息, 每次打包后都会自动递增最后一节
+    LeeAppVersion: 1.0.1,
+
+    # 此安装包发布机构的名称, 会出现在注册表卸载项中 (控制面板中)
+    LeeAppPublisher: rAthenaCN, Inc.,
+
+    # 此安装包发布机构的官网地址, 会出现在注册表卸载项中 (控制面板中)
+    LeeAppURL: 'https://rathena.cn/',
+
+    # 开始菜单程序组的名称
+    # 里面默认会存放一个以 LeeAppName 为名, 指向 LeeAppExeName 的快捷方式
+    # 以及卸载程序的快捷方式等等
+    LeeDefaultGroupName: LeeClient StartMenu,
+
+    # 游戏设置程序在开始菜单中的快捷方式名称
+    LeeGameSetupName: Game Setup,
+
+    # 游戏设置程序在安装目录中的实际文件名 (以便快捷方式指向)
+    LeeGameSetupExeName: setup.exe,
+
+    # 安装到 Program Files 下的默认目录名称 (玩家可以自行更改)
+    LeeDefaultDirName: LeeClient,
+
+    # 最终输出的安装程序文件名
+    # 填写 Setup 表示最终生成的文件名为 Setup.exe
+    LeeOutputBaseFilename: Setup
+  }
+]

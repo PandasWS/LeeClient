@@ -1,0 +1,36 @@
+{
+    "fontName": "simsun.ttc",
+    "fontSize": "12",
+    "normal": {
+        "globalOffset": "0,0",
+        "fontColor": "#000000",
+        "shadowMode": "offset",
+        "shadowColor": "#000000",
+        "shadowAlpha": "12",
+        "shadowOffset": "1,1"
+    },
+    "hover": {
+        "globalOffset": "0,0",
+        "fontColor": "#000000",
+        "shadowMode": "offset",
+        "shadowColor": "#000000",
+        "shadowAlpha": "12",
+        "shadowOffset": "1,1"
+    },
+    "press": {
+        "globalOffset": "0,0",
+        "fontColor": "#000000",
+        "shadowMode": "offset",
+        "shadowColor": "#ffffff",
+        "shadowAlpha": "50",
+        "shadowOffset": "-1,-1"
+    },
+    "disabled": {
+        "globalOffset": "0,0",
+        "fontColor": "#6e6e6e",
+        "shadowMode": "outline",
+        "shadowColor": "#ffffff",
+        "shadowAlpha": "100",
+        "shadowOffset": "0,0"
+    }
+}

@@ -1,0 +1,1808 @@
+{
+    "ad42a9ff8478764614d419352bed0554": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_friend",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "b17502202aa3badf261e1b0a7ecf3596": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_big_next",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "96c2a9c8e7b6afdfd9ad397ac5139795": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_close",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "关闭"
+    },
+    "68a4e32765244b333718aeaf311e2d41": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_intro",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "b604db01c6ce6b21193a7ee2c1b58373": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_info",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fdb3bb259f1ce6d1994de7e412ed5dde": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_add",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c21505beaebcaec1c32f693e0c026949": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_write",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "343e72b2e30a92f43b502148cef21fa0": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_help",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e0a2d12a82882fb63479bc7146cd2ade": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_07",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "声音设置"
+    },
+    "228b58017d8766dfe9f33f169022b41e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_10",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "移动到角色复活点"
+    },
+    "b2e9a814f9828af41d43127b96ab9fc8": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_06",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "图像设置"
+    },
+    "80bb86b44ae781c5c5910a77b7e09723": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_make",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d566e23b7a016501b97aa1f9b55f57dd": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_shortcut",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "9e9cd811c41944e6c35487bd242852c9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "change_slot",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "cc744451b7602cbb07fe6ab7f2010668": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_disagree",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "拒绝"
+    },
+    "8245bc6350621bcd7dde0f088dd4f01d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_view",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "723b51176ae5b704d1c861eceed93739": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_01",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "回到角色选择画面"
+    },
+    "78cd381bd676ed7572d7eb03ebfd5137": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_next",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "继续"
+    },
+    "61335b7015408fc2e955a6e2209f1880": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_disband",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "解散公会"
+    },
+    "86cd39f24e7a3301ba8814bdc5ff82e0": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_q_inactive",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "78a3a7c9a56eea77d20fe1230f6f0aae": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_send",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "3e6bb239e55db376d48648dcf834418a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_fired",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d4cd5a43c9982bcf445786b364fe381d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_skill",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "4dba7a98c49f82b3a2b8f65dd469fd0c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_back",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "308f788d394945eece982747859b0211": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_memo",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "cd5d117b6f6d046a0b5cc444265591a9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_1on1",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "0c25f0b90863d7c8efc5e045017c113a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_exchange",
+        "FilenameMode": "_a#|_a|_b|_dis#True",
+        "StyleFormat": "10002",
+        "ButtonText": "交换"
+    },
+    "e4f639bde62d5e955908000b4dc60800": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_edit",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "更改"
+    },
+    "32f1c6e124abaa267c99542e4c3e0fc4": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_agree",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "同意"
+    },
+    "70bbf374a7a2f862fd531358987a4dd1": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_big_change",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "de4ada7b65849bcd095b0d9641c61edb": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_03",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "离开游戏"
+    },
+    "03dce0f9bff59bfaeff5f76ef07436f4": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_buy",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "购买"
+    },
+    "baadd811791b0ecf27176003bd7b163d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_restart",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "cc271b282097c22a5eba03eb8629cb33": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_sell",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "出售"
+    },
+    "9e0f5c6b7c04cc64f15b2c0e6eebfded": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_big_cancel",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "9e8847c9b7b1b847ed7d3afb96a31261": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_feed",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "b804d311966318a57c569d5c08e188e7": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_get",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "27fd36d8f08ff84f88dbe40b2c7fc855": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "apply_individual",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "1074f7d5e4435795e22431a1659d2d77": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_find",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "查找"
+    },
+    "503f12aea5c40212698b7285220f7c0b": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_learn",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "0b9ded1c381b9f68b38bf26270b871a4": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_additem",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "3a084473e5df3579744cde46871ed606": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_q_active",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fdb2a81e2ecf0ad62729c16145e388a3": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_deleteitem",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "7f26c81a730a32635539567c741e6c3c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_del",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "8444fb8c502c1b9b04d82cda68f3931e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_02",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "继续游戏"
+    },
+    "dd715644bf74c167e707c331f15c9f37": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_ok",
+        "FilenameMode": "_a#|_a|_b|_dis#True",
+        "StyleFormat": "10002",
+        "ButtonText": "确定"
+    },
+    "9ae8ade9602428d1fe6f6f7ba9d425d3": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "cancel_waiting",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c13facbb8f2412a580190f8c18b0fe5c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_09",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "退出游戏"
+    },
+    "813d93f36336d59b144bb184d7061232": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_list",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "3ed435d54b1fe165db95d655cea24735": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_charge",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c91dbd10bd04cb57b8660153c1b7e07e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_del_res",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fb0038f5d130cfecc35514ac1473a5b4": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_cancel",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "取消"
+    },
+    "bee2bea3c2a88550770a372eae09c30a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_emotion _",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "693078c5cb4631d837e3b77fabfdb6b1": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_sort",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "5f44bd6b9836baf1101e847129971521": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_use",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "使用"
+    },
+    "0b0fa3570f8dcb93cd0dd96f8caacb04": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_refresh",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "刷新列表"
+    },
+    "4bc0b200ccd1758a67ab9e36d33dcdba": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_big_used",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c5f75d37e83372e066ed913356cfd9ca": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_05",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "原地复活"
+    },
+    "dba1d48fddcd886dcac8c92aca150e6c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_reply",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "6379f4d3faba08a6c52cbdd686b34650": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_rewrite",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f35a32885a356f0959b208f8cd044c16": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_search",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "923699ed54e04cfba578e8e860eec088": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_big_ok",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "4e0956fe37fdc420a728664dd098b6ab": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_04",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "重新开始"
+    },
+    "879584ab3fd60f0b57f5ab48fab37036": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_big_unused",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "b16cf5fb2ebb42d0b715ba8966fc48c8": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_cancel_res",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "195cc0ebd957e898c9f2f2339ae3cfa3": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_apply",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "应用"
+    },
+    "7917e7693d52239b6d02a3d915763e2f": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_reset",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "重置"
+    },
+    "db65686afeb449642358ec8c7968540b": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_001",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "游戏设置"
+    },
+    "362d94697b60a3ed5261ffd21ee83668": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "esc_08",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "10000",
+        "ButtonText": "快捷键设置"
+    },
+    "80b6213cffd8ae43a469124947dde2b6": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/make_character/",
+        "Basename": "arrow_box_l",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "65f74f001e161c7b909c5d25660c9001": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/make_character/",
+        "Basename": "arrow_box_r",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "51e89ae96acf12ece2a4c59b97e68256": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/make_character/",
+        "Basename": "btn_gender_m",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "930eec65f1838670f79f1fb3dbd2a056": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/make_character/",
+        "Basename": "btn_create",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "10000",
+        "ButtonText": "创建角色"
+    },
+    "8d57223deead5a792e7189b7ea01ff2e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/make_character/",
+        "Basename": "btn_gender_f",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fcc87440165e982b54daebc7c31513e1": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/make_character/",
+        "Basename": "chr_arrow_rotate_l",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "ec4bf41acad890663153546e6fb3aa18": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/make_character/",
+        "Basename": "chr_arrow_rotate_r",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d77b6b06c55c39dfa133eef749497b48": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/achievement_re/",
+        "Basename": "tab_sub",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "67540eea0b8009547e1313abbaab272d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/achievement_re/",
+        "Basename": "reward",
+        "FilenameMode": "_b#_a|_b|_c|_d#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "de5b68f90b94241f4a62f091ca38f2f5": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/achievement_re/",
+        "Basename": "tab",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "a3684ab16267cf441f80fe8d9d47a7df": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/achievement_re/",
+        "Basename": "btn_receive",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "4ccd049c99b0ee794ed29f4853cac955": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/guild_helper/",
+        "Basename": "btn_help",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "帮助"
+    },
+    "63ad3ed2d0b3cb650e2e5715316bbdc3": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/guild_helper/",
+        "Basename": "create_guild",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "建立公会"
+    },
+    "973757d52055d4b9ce98dc16ab602189": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/guild_helper/",
+        "Basename": "btn_ok",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "确定"
+    },
+    "42055ce354c6954cbff10653d0ad9081": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_close_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "128efbd48020e4e1d948ee7cb67712a9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_replay",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "重播"
+    },
+    "037c52a343a82033eec4f78f45b01afa": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "replay_speedadd_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f7951ceaa85c69bdd70de19b8007b908": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_selectserver",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "选择服务器"
+    },
+    "221e7acd678c65a5b8c39e2da7ace2c5": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_start",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "881d9ba5a4a51ce0aeeef358e7f44af2": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_setup_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "ae112779328804fcce77e1f7bf3b9698": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "replay_pause_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "1eac6623a77ce34ed5300ce7a62b3f9c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_stop_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "0da27ce1a813a8ee5ce5cc8e34f889ab": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_listoff_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "1dffe05886524fde94f7c4a5cb4f30ea": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "replay_end_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "115d6a6395cd8586bdf30f06aa90ede4": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "replay_option_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "408d94b8a9b61774ae2d74cac0b7e883": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "replay_stop_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d4b9297e9fdacbf9f7f5ce6961505525": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_liston_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "737422cbf3c8a58714a3c4319570e2f6": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "btn_save_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "89fa8e8f86745aa58853d2c8ab4a0497": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "replay_start_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "158077a096468ced27ff03f4059c59fe": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/replay_interface/",
+        "Basename": "replay_speedmin_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fea0b3b943d9ef35338dbb24144479c7": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/achievement/",
+        "Basename": "reward",
+        "FilenameMode": "_b#_a|_b|_c|_d#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "158d76744254378838b7e5f42d859a53": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/bank/",
+        "Basename": "btn_10mil",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "2f4b604756b0584e3d614c876040de67": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/bank/",
+        "Basename": "btn_100mil",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fcf9ca6351da6812b0955bb45e2a9f9f": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/bank/",
+        "Basename": "btn_deposit",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "10000",
+        "ButtonText": "存入"
+    },
+    "3f18c08ed63656d60e4962648d96a5da": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/bank/",
+        "Basename": "btn_upper",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d80bd9a7de055720ce029b81428b85c7": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/bank/",
+        "Basename": "btn_max",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "12ed963990b8242a52ef8f3a53006e12": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/bank/",
+        "Basename": "btn_buttom",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fb6c0374210201731e30ea8ebd55ad96": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/bank/",
+        "Basename": "btn_1000mil",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "2d9a208b0deab170c0836914eb5952b6": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/bank/",
+        "Basename": "btn_withdraw",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "10000",
+        "ButtonText": "取出"
+    },
+    "ef9eba659ca53bf7d753d89b29143eb9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "navisearch",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "5537ea5699a5de95cad75d8a94b20840": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "btn_navigation",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "19ed93fe1afc2056596763a87cecf755": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "navistart",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f9b1be46c864d5efdd4f36e6358f0850": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "naviroute",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c6893003e284db371beb0cfbf83e55f7": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "navilist",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "bcff0f0ff3333f30409da733f8f2ba80": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "navisyschange2",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "63c24df9c857a03a69dd32ea1e18bb2b": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "navifolder",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "47162dc9a219c62374e9723f1c6b2eb3": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "sys_close",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "326475686e6ba607a19940858b2cd2a3": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "navisyschange",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e2a9b48350640aee260fc9c6839dfcfd": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/navigation_interface/",
+        "Basename": "sys_mini",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "2af2d349e84b66ec94007a323bffcf83": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/login_interface/",
+        "Basename": "btn_intro",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "45e8556c5be598c4b4d6419871cfc9fa": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/login_interface/",
+        "Basename": "btn_connect",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "登入"
+    },
+    "9919d9948e10e85287333c4a7e17d9df": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/login_interface/",
+        "Basename": "btn_request",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "注册"
+    },
+    "183babdfafe9b9fc7c5a68ec771b2245": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/login_interface/",
+        "Basename": "btn_exit",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "退出"
+    },
+    "2f9c30de0da44be92d6027e8c77effcb": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/login_interface/",
+        "Basename": "btn_change_name",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "7aed68cdf1fb47b0b98e72d68aaf8784": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_01",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "cd2f7de4ad0150a833a9a87bc7e98e3d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "stickon",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e9900ca094b4bece5c49d020d000f36b": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "txtdown_btn",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "dc7e1d8e7e5675f970b3d654c21f59a8": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_close",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "12c6a1d802828ab7c133c12eeb8e44a9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "close2_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "41371c35ed829b34a1bddbfa92556ff8": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num5",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "66175eb122370af7f0c15ff8c7246861": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num7",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "898e8466df5a7cfe646683107cb7755a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_03",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "a7367e3e95ffb2aebd5fccaf28a9430d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "0-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "23725bbc04f0d1de67ac66065bdb9bc0": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "2-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "6b59cd814e8c4cfa10ce8770a801f57c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "add_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "93e77a77d3beeec09706ecc2df43d00c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "雀汗",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "68c4d87cbbae5d945a852d751e055d96": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "setzeny_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "5f464d34a5abeea56e48c18fc932b068": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "脚痹",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fce30ef498653df513dc0ebbf3e94227": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "wnd_mini_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d38c33e869f6640d3af4c85a900587ee": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "skill_up",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "7efd8b57c06cc4bf7736775f72471908": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num3",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "2e0af528ad0f3040454b06f1b57c83aa": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "康备厘厚",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e1d753d0c712585a25014bbef66dc453": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_07",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c938e542e0dc85ba0fbe2dad5b47494a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_05",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c218739f088ddac0c3edd1fbc8f668a4": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "6-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "dc21c79da04976b7705527258097a9d7": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num1",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "3b162322383344753bfb5aa002ba1140": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "inputzeny_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "8828b625c81628077b8566a29a195d50": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "4-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "179217f645ff38ef35c50f94e0c7b379": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "auction_view_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "a0f211ff1c68bb69fe4ea18798f96b81": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "finish_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f0d58903a8bcfcb82db4408d23b9be9c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num4",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "07bff3eec71fb032552da946711fe0e7": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "que_btn",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fdcd9c1f59edddc501a8908263811894": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "send_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "9a0f4861b243723054b179296c0f31b0": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "3-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "00ecc3d964f5098bfb8db3a5c0e049c1": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "battle_option2_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f81765484a640e15df9e7844ec3dc5b7": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_numr",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "0fcc1e5a4d04b849fedcffed54060bf3": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "return_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "fca00a42decabd66c02549ebe7031b0e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_02",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f402c4e0e5f0531cbc2adf568bd9da83": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num6",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e3cfdd365b0ce0c41bae8ae5926fd460": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "auction_add_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "2a5133623c5a94634173d674bad915bd": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "reset-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "28fc17f3b107ac1c0bbcc568a8daaa14": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "1-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "523c7b19f9e4790e2fe1cc583d588d6d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "5-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "6f9ad2d4d48e27c86a7d7ac3318016af": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_06",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "bb789138cf0097798c086eaf641beae9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_web_browser",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c451b9bf29885ec34d9c2fd53a750af3": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num2",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e3c8009dc7d48fe4e28371223ce08608": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num0",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "6df8699d51666302081bc57a8484f19c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_back",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "7b3bdda2a1ec667490457938b611ce0a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_04",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "81145c1e7ae18e6d9c6688ffc1f25296": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "牢扁",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "afe1b6df59363a2742998e9b8e1f47d9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "7-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "8f3fcc876008ba56f91aed43baf3ea62": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "扁鸥",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f6e2c8aa327566bf32e7448b216ef017": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_08",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "81fbfe9f5e419065d5c3f47e84aaa1ad": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "漂啊",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d81dc8d5ab4e500b176025961290977a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "烙措厘厚",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "aae137e07e68c8bc2dccfb58c62c66a5": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_deposit",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "88283fb76bb45b20fdde234e710b2a2e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_withdraw",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e6e136870f4f37cf787f4437c56e9ace": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "ok_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "3d47b8748eab7afe48cc72773f3e899f": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "battle_option_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "a911b0953fe9b61e3b79008a48b6b367": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "八祸",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "4123d76926f975326eb340234f39e175": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "滚橇",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "b9d939c1a543ca4dc13772eace91b675": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "cancel2_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e3ee9f8c999bc6cc1032145aea7b696a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "remail_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "3c64d92b0a803d5cca353705b6c8a9b9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "buy_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "b88a88878608de0ee9684727c573c180": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "9-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "911e5961142ea689752f01a1289a5b70": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "stickoff",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "03738cc4c531a4875c480708cf77a978": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_010",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "40228cbdc1e9b9a5aeacbe036ff2641a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num8",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "a6a1abaeb04d2661109b5ae51493492b": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "del_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "0da67900697c2eef09ad59e852bf0a07": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "cancel_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "54dd0f4eefb6580c4807502f1b7434a1": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_ok",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "170d4c692e09024a980134792509d39b": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "auction_buy_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "096990ae1148823d9e7af016d54540fd": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "txtup_btn",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "3c39f5ed4096e7ec80a7f8e15c39ba7d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "mesbtn_09",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "0b8db35f10dcf8f02bab5b2bec8b439d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "8-",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "48c287c9c9943831a4192ef5b44b0323": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "茄沥",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d38727649f6b1a9a9bcdc18a9e34402e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_battle_field_off",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "6b4cacf54dab17f67a7af970d9b11b8e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "close_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "ddcc1b5e8a288716dbbb2c7acaab84b9": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "txtbox_btn",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "49105db582e6933aa405f1801a45c1da": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_bank",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "5f8443735adf0c3d71001b038ff5f603": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "btn_big_num9",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "db95a1e2473189863c146d4a31c3d155": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "auction_sell_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "a0bffbf989a6064e877f04b77749192e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/roullette/",
+        "Basename": "getwinprize_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "48f3744cd55ce5c7f6bcfa5b3f6f7165": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/roullette/",
+        "Basename": "startroullette_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "188ac405590c078a99a895791af7e122": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/seekparty/",
+        "Basename": "recruit",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "71cf6bbe050072383f8c7fb2b85fa262": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/seekparty/",
+        "Basename": "btn_blacklist",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "006ebd53485033c5a3c9e07c6f227a5c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/seekparty/",
+        "Basename": "btn_callmember",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "9216fc59b881bc89ee5ab352e4164750": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/seekparty/",
+        "Basename": "btn_clear",
+        "FilenameMode": "_b#_a|_b|_c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f1e0d054f2ac5111d7942810f6f04a69": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/styleshop/",
+        "Basename": "btn_delete",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "47d5c3b72c3e7b7402ec274bdf0ab64b": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/styleshop/",
+        "Basename": "btn_rotatearrow_l",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "743d1f1384b3831a767b069eec0ad4ee": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/styleshop/",
+        "Basename": "btn_buy",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "6bbb3d1b73577fca1730987686eba1b2": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/styleshop/",
+        "Basename": "btn_rotatearrow_r",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "da06ca70fdf68f900bdd3c548bea4453": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/styleshop/",
+        "Basename": "btn_refresh",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "1d59d51ed8f7ec920a3ee5155f96468c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/styleshop/",
+        "Basename": "chr_arrow_r",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "cc083cf9a79336831c5696301d59b1fa": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/styleshop/",
+        "Basename": "chr_arrow_l",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "4df1c60aaef0e05f5cad5dc74b0f0e24": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/battle_field/",
+        "Basename": "btn_help",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "10000",
+        "ButtonText": "帮助"
+    },
+    "f5325967a19613884f2b455317b5dee2": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/battle_field/",
+        "Basename": "btn_join",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "10002",
+        "ButtonText": "加入"
+    },
+    "494f735e680671e1d400cc1c352bc109": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/battle_field/",
+        "Basename": "btn_battle_field",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "95ff2e3fb18f886cd9a5f4305de61100": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/battle_field/",
+        "Basename": "apply_party",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "10000",
+        "ButtonText": "队伍名义申请"
+    },
+    "852e4a2a3f5a89c45cb5c59f04b97c62": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/battle_field/",
+        "Basename": "apply_individual",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "10000",
+        "ButtonText": "个人名义申请"
+    },
+    "3ff7240482312beab9b8a08a554da892": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/battle_field/",
+        "Basename": "apply_guild",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "10000",
+        "ButtonText": "公会名义申请"
+    },
+    "c86d2ecb0bbcca93005e395c1381a288": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/battle_field/",
+        "Basename": "cancel_waiting",
+        "FilenameMode": "_a#|_a|_b|_c#True",
+        "StyleFormat": "10000",
+        "ButtonText": "取消等待"
+    },
+    "41f28a665f6690c2b4d207f6830d7d12": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/battle_field/",
+        "Basename": "btn_battle_field_off",
+        "FilenameMode": "_a#|_a|_b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "4d81b43db04699985ccf25be75709449": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "btn_delete",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "10001",
+        "ButtonText": "删除"
+    },
+    "398e4a08a5bf96c3673363b8cbd5b337": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "btn_create",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "e17792e48f6aa98116397e6e8f0a5292": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "btn_delete_reserve",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "10000",
+        "ButtonText": "预约删除"
+    },
+    "2958ff4c9da764231cb9861cf9dc6acd": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "btn_delete_cancel",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "10000",
+        "ButtonText": "取消删除"
+    },
+    "50efefb10f98e9153533d383376aafe8": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "chr_arrow_r",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f2925c79f193dee4ede8e53f46ccfa3e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "chr_arrow_l",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "225e29f7c54ce5cdb2cf2ccfa57a791c": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "btn_ok",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "10001",
+        "ButtonText": "进入游戏"
+    },
+    "f9688278b53135ee6b631e7798d011d4": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "btn_add",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "745d17f66ef1bbced0a4bd6e81285dea": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/select_character/",
+        "Basename": "btn_payinfo",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "10000",
+        "ButtonText": "充值信息"
+    },
+    "5b572ddbbbe669f3df717fceea3b6f00": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/",
+        "Basename": "btn_ok_",
+        "FilenameMode": "b#a|b|c#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "b689052e6146605e61fe66e60f8cb615": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/shortcut/",
+        "Basename": "btn_titlebar_close",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "963d39d7d8b6126d39a907efa20faf73": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/inventory/",
+        "Basename": "btn_search",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "ffcf196102272c1a0940b5d18f2a7189": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/inventory/",
+        "Basename": "btn_array",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "283bca4490b6e3a62792b59fd438582e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/inventory/",
+        "Basename": "btn_close",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "96c2e677659a8fc3ff73c54262e66288": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/inventory/",
+        "Basename": "btn_prev",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "11ce8ddf58394d5b37c8588527427899": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_delete",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "2872f745ae2ba0a1c94a09983a09f104": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_search",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "abe272b34d4335baa9bbffed5857b50e": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_write",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "9e6832f5c66eef233bd3333a31bcbb56": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_confirm_id",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "8ac7bdf2e12046a7c5cb146597efed4d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_send",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "0952e588a8aba8146c7e93ccaa7b57dd": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_next",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "5803072c611224247c89b0d44d388443": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_refresh",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "1e721eb75be3943beb126b4206d06dff": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_reply",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "97d0adfe475a275e4fa841ad32d6a43f": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_listtab_search",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "09a2010ed198eea0753e75a09ebcb672": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_listtab_admin",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f69b50698e8e3ace61702b3b92810293": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_listtab_return",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "3565e0c6273eb911207d60c1b4103a20": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_listtab_default",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "c60454517e983e162ab8c0cea11551bc": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_receive",
+        "FilenameMode": "_over#_out|_over|_press|_disable#True",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "4e2588f5671040a0e5bef08d0a398343": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/rodexsystem/renewal/",
+        "Basename": "btn_prev",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "f910a259f466eb5ee88407e76ac4669d": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/equip_preview/",
+        "Basename": "chr_arrow_rotate_l",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "65efbffcff449f0279907cd1d0b39bee": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/equip_preview/",
+        "Basename": "chr_arrow_rotate_r",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "0abc82ea05d297d5b7f66a8fd499760a": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/lapine/",
+        "Basename": "btn_moveitem",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "2dc1a6e3a0b570d5e4c8976772dba680": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/lapine/",
+        "Basename": "btn_make",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "d4cb0adb90b7fb20c739cc2c7a63b7b5": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/lapine/",
+        "Basename": "btn_cancel",
+        "FilenameMode": "_over#_out|_over|_press#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "99cbcdee6b540881a659a071b7e47eb1": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "stickon_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    },
+    "679ab2e492308f6d7047492d3eb16358": {
+        "Directory": "data/texture/蜡历牢磐其捞胶/basic_interface/",
+        "Basename": "stickoff_",
+        "FilenameMode": "b#a|b#False",
+        "StyleFormat": "",
+        "ButtonText": ""
+    }
+}
