@@ -1,0 +1,622 @@
+tbl = {
+	[1] = {
+		Title = "팁박스",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00001",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"/tip 또는 팁박스 아이콘을 클릭하여 팁박스를 열 수 있습니다.\\n팁박스에서는 게임을 즐기는데 유용한 정보를 얻을 수 있습니다.\\n더 많은 정보를 얻고 싶다면 ^3b488c검색창^000000에 검색어를 입력해 보세요.\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 0, Twinkle = 1, StartX = 160, StartY = 105, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[2] = {
+		Title = "help: 명령어 일람",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00002",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"/h를 입력하여 라그나로크에서 사용되는 유용한 명령어들을 볼 수 있습니다.\\n/가 붙은 명령어들은 ^3b488c채팅창에 입력^000000하여 사용할 수 있습니다.\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[3] = {
+		Title = "캐릭터: HP",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00003",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터의 체력을 나타냅니다.\\n^ff0000HP가 0이 되면 전투불능 상태가 됩니다. 장소에 따라 경험치가 하락^000000할 수 있으므로 HP관리에 주의하시기 바랍니다.\\n\tAlt + END 키를 눌러 캐릭터 하단의 HP/SP게이지를 ON/OFF 할 수 있습니다.\n\t\t\t\t<TIPBOX>▶캐릭터: SP<INFO>4</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶자동회복<INFO>12</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 3, Twinkle = 1, StartX = 100, StartY = 60, DistX = 0, DistY = 0, MoveTime = 0 },
+			{ EffectNum = 3, Twinkle = 1, StartX = 120, StartY = 265, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[4] = {
+		Title = "캐릭터: SP",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00003",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터의 정신력을 나타냅니다.\\nSP는 ^3b488c스킬을 사용하면 소모^000000 됩니다. SP가 0이 되면 스킬을 사용할 수 없으니 SP관리에 주의하시기 바랍니다.\\nAlt + END 키를 눌러 캐릭터 하단의 HP/SP게이지를 ON/OFF 할 수 있습니다.\n\t\t\t\t<TIPBOX>▶캐릭터: HP<INFO>3</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶자동회복<INFO>12</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 0, Twinkle = 1, StartX = 100, StartY = 105, DistX = 0, DistY = 0, MoveTime = 0 },
+			{ EffectNum = 0, Twinkle = 1, StartX = 120, StartY = 305, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[5] = {
+		Title = "캐릭터: 레벨업",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00005",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"몬스터를 사냥하거나 퀘스트를 완료하여 경험치를 얻으면 레벨업을 할 수 있습니다.\\nEXP를 얻어 베이스 레벨을 올리면 캐릭터의 기본적인 능력을 결정하는 ^3b488c스테이터스 포인트^000000를 얻을 수 있습니다.\\nJOBEXP를 얻어 잡 레벨을 올리면 캐릭터의 스킬을 올릴 수 있는 ^3b488c스킬 포인트^000000를 얻을 수 있습니다.\n\t\t\t\t<TIPBOX>▶전투: 경험치<INFO>16</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶캐릭터: 스테이터스<INFO>6</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 3, Twinkle = 1, StartX = 10, StartY = 265, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[6] = {
+		Title = "스테이터스: STR(힘)#스탯스텟",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00006",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터의 ^3b488c근접 물리 공격력^000000에 직접적인 영향을 미쳐 기본 공격 데미지가 올라갑니다.\\n또, ^3b488c소지한계량(Weight)^000000이 늘어나 보다 많은 아이템을 가지고 다닐 수 있게 됩니다.\n\t\t\t\t<TIPBOX>▶스테이터스: AGI(민첩)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: VIT(체력)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: INT(지력)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: DEX(재주)<INFO>10</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: LUK(운)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 210, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[7] = {
+		Title = "스테이터스: AGI(민첩)#스탯스텟",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00006",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터의 속도에 직접적인 영향을 미쳐 ^3b488c공격속도^000000와 ^3b488c회피율^000000이 올라갑니다.\\n또, ^3b488c물리 방어력^000000에도 영향을 줍니다.\n\t\t\t\t<TIPBOX>▶스테이터스: STR(힘)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: VIT(체력)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: INT(지력)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: DEX(재주)<INFO>10</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: LUK(운)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 223, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[8] = {
+		Title = "스테이터스: VIT(체력)#스탯스텟",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00006",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터의 체력에 직접적인 영향을 미쳐 ^3b488c최대 HP^000000가 올라갑니다.\\n또, ^3b488c물리 방어력^000000과 ^3b488c마법 방어력^000000을 올려주고 ^3b488cHP자동 회복^000000에도 영향을 줍니다.\n\t\t\t\t<TIPBOX>▶스테이터스: STR(힘)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: AGI(민첩)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: INT(지력)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: DEX(재주)<INFO>10</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: LUK(운)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 236, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[9] = {
+		Title = "스테이터스: INT(지력)#스탯스텟",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00006",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터의 ^3b488c마법 공격력^000000에 직접적인 영향을 미쳐 ^3b488c마법 데미지^000000가 올라갑니다.\\n또, ^3b488c캐스팅 시간^000000을 단축시키고 ^3b488c마법 방어력^000000을 올려주며 ^3b488c최대SP량^000000을 늘려 마법을 더 많이 쓸 수 있게 해줍니다.\n\t\t\t\t<TIPBOX>▶스테이터스: STR(힘)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: AGI(민첩)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: VIT(체력)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: DEX(재주)<INFO>10</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: LUK(운)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 250, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[10] = {
+		Title = "스테이터스: DEX(재주)#스탯스텟",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00006",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터의 ^3b488c원거리물리 공격력^000000에 직접적인 영향을 미쳐 ^3b488c원거리 공격 데미지^000000가 올라갑니다.\\n또, ^3b488c명중률^000000을 올려줘 공격이 성공할 확률이 높아지고 ^3b488c캐스팅 시간^000000을 단축시키며 ^3b488c마법 공격력^000000을 올려줍니다.\n\t\t\t\t<TIPBOX>▶스테이터스: STR(힘)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: AGI(민첩)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: VIT(체력)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: INT(지력)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: LUK(운)<INFO>11</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 263, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[11] = {
+		Title = "스테이터스: LUK(운)#스탯스텟",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00006",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터의 ^3b488c치명타율^000000에 직접적인 영향을 미쳐 몬스터에게 ^3b488c크리티컬 데미지^000000를 줄 확률이 올라갑니다.\\n또, ^3b488c명중률, 회피율, 물리 공격력, 마법 공격력^000000등에 영향을 주지만 ^ff0000효율이 다른 스테이터스에 비해 낮으므로 포인트를 투자할 때 주의가 필요합니다.^000000\n\t\t\t\t<TIPBOX>▶스테이터스: STR(힘)<INFO>6</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: AGI(민첩)<INFO>7</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: VIT(체력)<INFO>8</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: INT(지력)<INFO>9</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶스테이터스: DEX(재주)<INFO>10</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 5, Twinkle = 1, StartX = 12, StartY = 276, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[12] = {
+		Title = "자동회복",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00012",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"아무런 행동도 하지 않고 제자리에 가만히 서 있으면 플레이어의 ^3b488cHP와 SP가 조금씩 회복^000000 됩니다. 앉아 있을 경우 2배로 회복됩니다.\\n^ff0000무게가 70% 이상일 경우는 회복되지 않습니다.^000000\n\t\t\t\t<TIPBOX>▶캐릭터: Weight(무게)<INFO>13</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[13] = {
+		Title = "캐릭터: Weight(무게)",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00012",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"캐릭터가 지닐 수 있는 무게와 현재 지닌 아이템의 무게를 나타냅니다.\\nWeight만큼 아이템을 지닐 수 있으며 ^ff0000아이템의 무게가 한계치를 넘으면 더 이상 아이템을 가질 수 없습니다.\\nWeight 의 수치가 70%이상이면 HP 와 SP가 자동으로 회복 되지않습니다. 또한 90% 이상 넘게 되면 플레이어는 공격을 하거나 스킬을 사용할 수 없습니다.^000000\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 0, Twinkle = 1, StartX = 100, StartY = 185, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[14] = {
+		Title = "전투: 공격",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00014",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"몬스터 위에 마우스 커서를 가져가면 커서가 칼 모양으로 바뀌게 됩니다.\\n이때, ^3b488c클릭^000000으로 공격할 수 있습니다.\n\t\t\t\t<TIPBOX>▶락 온 모드: 자동공격<INFO>15</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶전투: 경험치<INFO>16</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[15] = {
+		Title = "락 온 모드: 자동공격",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00014",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"Ctrl 키를 누른 상태에서 몬스터를 공격하면 몬스터를 처치할 때까지 ^3b488c자동으로 공격^000000하게 되며 다른 곳을 클릭하면 해제할 수 있습니다.\\n또, ^3b488c/noctrl를 입력하면 Ctrl을 누르지않아도 자동공격이 되는 상태가 됩니다.\\n자동공격이 기본인 상태에서 /noctrl을 다시 입력하면 자동공격 모드를 해제할 수 있습니다.^000000\n\t\t\t\t<TIPBOX>▶전투: 공격<INFO>14</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[16] = {
+		Title = "전투: 경험치",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00016",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"몬스터를 사냥하면 ^3b488c경험치^000000를 얻을 수 있습니다.\\n몬스터에게 얻는 경험치는 몬스터에게 준 피해와 비례하지만 같은 피해를 주었다 하더라도 맨 처음에 몬스터를 공격한 사람이 경험치를 더 많이 받게 됩니다.\n\t\t\t\t<TIPBOX>▶전투: 공격<INFO>14</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[17] = {
+		Title = "아이템",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00017",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"바닥에 떨어진 아이템은 마우스를 아이템에 가져간 후 ^3b488c왼쪽 클릭^000000을 하면 주울 수 있습니다.\\n주운 아이템은 아이템 창에 들어가게 됩니다.\n\t\t\t\t<TIPBOX>▶아이템: 돋보기<INFO>18</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 5, Twinkle = 1, StartX = 150, StartY = 250, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[18] = {
+		Title = "아이템: 돋보기",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00018",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"몬스터에게서 얻은 장비용 아이템들은 아이템 효과가 확인되어있지 않을 수 있습니다. 미감정 아이템은 도구상점에서 파는 <ITEM>돋보기<INFO>611 돋보기</INFO></ITEM> 아이템을 사용하여 확인할 수 있습니다.\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 5, Twinkle = 1, StartX = 100, StartY = 88, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[19] = {
+		Title = "채팅: 대화",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00019",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"엔터키로 채팅창을 활성화 시킬 수 있습니다. 하고 싶은 말을 쓰고 다시 엔터키를 누르면 대화가 전송 됩니다.\n\t\t\t\t<TIPBOX>▶채팅: 채팅방<INFO>20</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶채팅: 귓속말<INFO>21</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶채팅: 파티<INFO>22</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶채팅: 채팅창<INFO>25</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶채팅: 내용표시<INFO>26</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶차단<INFO>28</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶이모션<INFO>27</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶채팅: 대화내용 저장<INFO>24</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 3, Twinkle = 1, StartX = 100, StartY = 280, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[20] = {
+		Title = "채팅: 채팅방",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00020",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"/채팅방 또는 /chat으로 ^3b488c채팅방^000000을 만드는 창을 띄울 수 있습니다. 또 /q 명령으로 채팅방을 나갈 수 있습니다.\n\t\t\t\t<TIPBOX>▶채팅: 대화<INFO>19</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶채팅: 대화내용 저장<INFO>24</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[21] = {
+		Title = "채팅: 귓속말",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00021",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"채팅창 왼쪽 입력란에 캐릭터이름을 입력하면 해당 캐릭터에게 귓속말을 할 수 있습니다.\n\t\t\t\t^3b488cAlt + H^000000로 ^3b488c귓말 리스트^000000 창을 열어 귓속말 상대를 확인할 수 있습니다.\n\t\t\t\t<TIPBOX>▶차단<INFO>28</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 3, Twinkle = 1, StartX = 30, StartY = 260, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[22] = {
+		Title = "채팅: 파티",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00022",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"파티멤버와의 대화는 % 하고 싶은 말  또는 CTRL+ENTER로 할 수 있습니다.\\n또, 채팅창 오른쪽의 ^3b488c파란동그라미^000000를 누르면 ^3b488c수신그룹을 설정^000000할 수 있습니다.\n\t\t\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶파티 시스템<INFO>29</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[23] = {
+		Title = "채팅: 길드",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00023",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"길드멤버와의 대화는 /gc 하고 싶은 말  또는 $ 하고 싶은 말  또는 ALT+ENTER로 할 수 있습니다.\\n또, 채팅창 오른쪽의 ^3b488c파란동그라미^000000를 누르면 ^3b488c수신그룹을 설정^000000할 수 있습니다.\n\t\t\t\t<TIPBOX>▶채팅: 파티<INFO>22</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[24] = {
+		Title = "채팅: 대화내용 저장",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00024",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"/갈무리 or /savechat 으로 채팅 내용을 파일로 저장합니다. \\n대화 내용은 라그나로크가 설치 된 폴더의 Chat폴더 안에 저장 됩니다.\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 3, Twinkle = 1, StartX = 100, StartY = 210, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[25] = {
+		Title = "채팅: 채팅창",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00025",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"^3b488cF10^000000으로 채팅창의 크기를 조절할 수 있습니다.\\nAlt + F10을 누르면 채팅창을 On/Off 할 수 있습니다.\n\t\t\t\t<TIPBOX>▶채팅: 내용표시<INFO>26</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{ EffectNum = 3, Twinkle = 1, StartX = 120, StartY = 150, DistX = 0, DistY = 0, MoveTime = 0 }
+		}
+	},
+	[26] = {
+		Title = "채팅: 내용표시",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00026",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"채팅창에 /notalkmsg를 입력하면 채팅내용을 채팅창에 표시하지 않습니다. On/Off\\n/notalkmsg2를 입력하면 길드말을 포함한 채팅내용을 채팅창에 표시하지 않습니다. On/Off\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[27] = {
+		Title = "이모션",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00027",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"ALT + L을 누르거나 /이모션을 입력하면 사용가능한 ^3b488c이모션^000000의 목록을 볼 수 있습니다.\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[28] = {
+		Title = "차단",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00028",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"/차단 캐릭터명 또는 /ex 캐릭터명으로 해당 캐릭터가 하는 말이나 귓속말 등을 차단합니다. 해제하고 싶을때에는 /해제 캐릭터명 또는 /in 캐릭터명 으로 해제할 수 있습니다.\\n또, /차단전부, /exall, /해제전부, /inall 명령어로 전체 대화와 귓속말을 차단하거나 해제할 수 있습니다.\\n차단된 캐릭터의 목록을 확인하고 싶을때에는 /차단 또는 /ex로 목록을 볼 수 있습니다.\\n^ff0000※ (Y/N)를 묻지 않으므로, 신중하게 선택하셔야 합니다.^000000\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[29] = {
+		Title = "파티 시스템",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00029",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"/결성 파티이름 또는 /organize 파티이름으로 파티를 만들 수 있습니다.\\n/탈퇴 또는 /leave로 파티를 탈퇴할 수 있습니다.",
+			"파티를 결성하여 파티리더가 된 경우, 상대 캐릭터를 마우스 오른쪽 버튼으로 클릭하여 '파티에 초대한다' 메뉴를 선택하거나 /초대 캐릭터명으로 파티에 초대할 수 있습니다.\\n파티원을 제명하고 싶은 경우 /제명 캐릭터이름 또는 /expel 캐릭터이름으로 ^3b488c자신이 리더인 파티^000000의 파티원을 제명할 수 있습니다.\\n^ff0000※ (Y/N)를 묻지 않으므로, 신중하게 선택하셔야 합니다.^000000\n\t\t\t\t<TIPBOX>▶채팅: 파티<INFO>22</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[30] = {
+		Title = "길드 시스템",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"/길드 길드이름으로 길드를 만들 수 있습니다. 길드를 만드는데에는 엠펠리움 1개가 소모됩니다.\\n자신이 소속한 길드의 정보는 ALT + G로 볼 수 있습니다.\\n^ff0000길드마스터는 길드를 해체할 수 있습니다. 길드마스터를 제외한 길드원이 없는 상태에서 /해체 길드를 입력하면 길드가 해체 됩니다.\\n※ (Y/N)를 묻지 않으므로, 신중하게 선택하셔야 합니다.^000000\n\t\t\t\t<TIPBOX>▶채팅: 길드<INFO>23</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶길드: 직위<INFO>31</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[31] = {
+		Title = "길드: 직위",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"길드정보창의 직위설정 항목에서 길드원들의 직위를 설정할 수 있습니다. 길드 직위는 각종 권한을 부여하거나 길드성장에 필요한 경험치 상납을 조절할 수 있습니다.\n\t\t\t\t<TIPBOX>▶길드 시스템<INFO>30</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[32] = {
+		Title = "게임 옵션창",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"ESC를 눌러 게임옵션창을 열 수 있습니다.\n\t\t\t\t<TIPBOX>▶게임옵션: 게임설정<INFO>33</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶게임옵션: 단축키<INFO>41</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[33] = {
+		Title = "게임옵션: 게임설정",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"게임을 쾌적하게 플레이 할 수 있도록 여러가지 옵션을 조절할 수 있습니다.\n\t\t\t\t<TIPBOX>▶게임설정: 고급설정<INFO>40</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[40] = {
+		Title = "게임설정: 고급설정",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = { "게임 그래픽을 조절 할 수 있습니다.\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>" }
+	},
+	[41] = {
+		Title = "게임옵션: 단축키",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"단축키를 확인하거나 수정할 수 있습니다.\n\t\t\t\t<TIPBOX>▶단축키: 매크로<INFO>42</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶단축키: 스킬바<INFO>43</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶단축키: 배틀모드<INFO>44</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶단축키: F1~F12<INFO>45</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[42] = {
+		Title = "단축키: 매크로",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"ALT+M으로 매크로 목록을 편집할 수 있습니다. 각 매크로는 ALT + 1 ~ 0에 대응 됩니다.\n\t\t\t\t<TIPBOX>▶게임옵션: 단축키<INFO>41</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[43] = {
+		Title = "단축키: 스킬바",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"스킬바(F12)에 자주 사용하는 스킬 또는 아이템을 등록하여 해당 슬롯을 마우스로 더블클릭하거나 단축카를 눌러서 간편하게 사용할 수 있습니다.\\n첫번째 스킬바는 기본적으로 F1~F9키에 대응하고 게임 옵션> 단축키 설정에서 대응하는 단축키를 변경할 수 있습니다. 2~4번 스킬바의 단축키는 배틀모드에서만 사용 할 수 있습니다.\\n스킬바에 스킬 또는 아이템을 마우스로 선택한 후 드래그하여 칸에 넣을 수 있습니다.\n\t\t\t\t<TIPBOX>▶게임옵션: 단축키<INFO>41</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[44] = {
+		Title = "단축키: 배틀모드",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"배틀모드는 채팅기능을 잠궈 스킬바에 등록된 단축키를 키보드에서 사용할 수 있게 해줍니다. /bm으로 On/Off 할 수 있습니다..\\n^ff0000배틀모드에서는 기본적으로 채팅기능이 잠겨있지만 엔터키를 눌러 채팅창을 활성화 시킬 수 있습니다.^000000\n\t\t\t\t<TIPBOX>▶게임옵션: 단축키<INFO>41</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[45] = {
+		Title = "단축키: F1~F12",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"F1~F9 : 스킬바에 등록 된 스킬을 사용할 수 있습니다.\\nF10 : 채팅창의 크기를 조절할 수 있습니다.\\nF11 : 기본정보창과 대화창만을 남기고 모든 창을 닫습니다.\\nF12 : 스킬바를 열고 닫을 수 있습니다.\n\t\t\t\t<TIPBOX>▶게임옵션: 단축키<INFO>41</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[46] = {
+		Title = "의복 변신 해제",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00046",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"\t\t\t\t\t의복 변신 효과중에는 전투가 불가능할 수 있습니다. 이런 경우 /환복 , /changedress , /nocosplay 명령어를 이용하여 의복 변신효과를 해제할 수 있습니다.\n\n\t\t\t\t\t또한 명령어를 기억하기 어려울 때에는 프론테라의 <NAVI>[의복 효과 해제 서비스 ]<INFO>prontera,80,106,0,101,0</INFO></NAVI>NPC 와의 간단한 대화로 의복 변신 효과를 해제할 수 있습니다.\n\t\t\t\t"
+		},
+		PageEX = {
+			{
+				EffectNum = 3,
+				Twinkle = 1,
+				StartX = 120,
+				StartY = 158,
+				DistX = 120,
+				DistY = 158,
+				MoveTime = 0
+			}
+		}
+	},
+	[1000] = {
+		Title = "팁박스: 항목",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"팁 목록을 볼 수 있습니다.\\n목록에 등록되어 있지 않은 팁은 검색으로도 찾아볼 수 있으며 새로운 팁은 계속해서 업데이트 됩니다.\n\t\t\t\t<TIPBOX>▶캐릭터<INFO>1001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶게임 플레이<INFO>1002</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶커뮤니케이션<INFO>1003</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶라그나로크 세계<INFO>4000</INFO></TIPBOX>"
+		}
+	},
+	[1001] = {
+		Title = "캐릭터",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"<TIPBOX>▶캐릭터: 레벨업<INFO>5</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶캐릭터: 체력과 정신력<INFO>3</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶캐릭터: 스테이터스<INFO>6</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[1002] = {
+		Title = "게임 플레이",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"<TIPBOX>▶전투<INFO>14</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶아이템<INFO>17</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶게임옵션창<INFO>32</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶의복 효과 해제<INFO>46</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[1003] = {
+		Title = "커뮤니케이션",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"<TIPBOX>▶채팅<INFO>19</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶파티<INFO>29</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶길드<INFO>30</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4000] = {
+		Title = "라그나로크의 세계",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"라그나로크 세계에서 모험의 무대는 크게 인간들이 중심인 땅 미드가르드 대륙, \n\t\t\t\t요정과 거인이 존재하는 차원 너머의 땅, 그리고 탐험심 가득한 이들이 찾아낸 미지의 지역 로컬라이징으로 분류됩니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶미드가르드 대륙<INFO>4001</INFO></TIPBOX>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4001] = {
+		Title = "미드가르드 대륙",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"미드가르드는 신족과 마족 그리고 인간이 서로의 신념을 위해 싸웠던 성전 이후, \n\t\t\t\t살아남은 인간들의 삶의 터전이자 중심대륙입니다. \n\t\t\t\t미드가르드 대륙의 동남부 해안선을 따라 주축이 되는 세 개의 나라가 있습니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶룬-미드가츠 왕국<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶슈발츠발드 공화국<INFO>4040</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶아루나펠츠 교국<INFO>4050</INFO></TIPBOX>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4004] = {
+		Title = "룬-미드가츠 왕국",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"성전에 참여했던 영웅들이 세운 국가.\n\t\t\t\t영웅의 계보를 잇는 일곱 가문을 중심으로 한 왕정체제이며, 묘르닐 산맥을 기준으로 남부지역을 아우르고 있습니다.\n\t\t\t\t왕국민을 위협하는 마물을 대비해 모험가 양성을 장려하고 많은 후원을 하고 있습니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶왕도 프론테라<INFO>4005</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶마법도시 게펜<INFO>4006</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶사막도시 모로크<INFO>4007</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶산악도시 페이욘<INFO>4008</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶항구도시 알베르타<INFO>4009</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶국경도시 알데바란<INFO>4010</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶휴양도시 코모도<INFO>4011</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶부족마을 움발라<INFO>4012</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶위성도시 이즈루드<INFO>4013</INFO></TIPBOX>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
+			"영웅왕가 게오보르그를 주축으로 하여, 하이네, 네리우스, 발터, 리하르트, 위그너, 뢰겐부르그의 일곱 왕가에서 왕위선출을 통해 선정 된 자가 왕위를 계승합니다. 왕가에서는 본격적인 겨울이 오기 전, 마물 퇴치를 위한 왕실 사냥 대회 등을 열기도 합니다."
+		}
+	},
+	[4005] = {
+		Title = "왕도 프론테라",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"룬-미드가츠 왕궁의 중심이며, 왕궁이 있는 왕도입니다.\n\t\t\t\t묘르닐 산맥을 등지고 앞으로 넓은 필드를 가지고 있기 때문에 다른 지역에 비해 마물의 피해가 적으며 평화롭습니다.\n\t\t\t\t주신 오딘을 모시는 대성당과, 기사단이 있어 성직자나 기사가 꿈인 자들이 많이 모입니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[프론테라 대성당]<INFO>prontera,235,315,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[크루세이더 집무실]<INFO>prt_cas,248,102,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[프론테라 기사단]<INFO>prontera,49,342,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[성 카피톨리나 수도원]<INFO>prt_monk,180,205,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4006] = {
+		Title = "마법도시 게펜",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"프론테라 서쪽 습지 너머에 위치한 마법사들의 도시. 중앙에 마탑 게펜타워가 있으며 과거 전설의 도시 게페니아가 있던 곳이라는 소문이 있습니다. 종종 마법사들의 축제 게펜 마법대회를 개최합니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[마술사 길드]<INFO>geffen_in,164,124,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[게펜 타워 최상층]<INFO>gef_tower,111,27,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[게펜 명물 전망대]<INFO>gef_fild07,179,242,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4007] = {
+		Title = "사막도시 모로크",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"과거 성전이 끝난 후, 마신 모로크가 미드가르드 대륙에 강림했었습니다. 마검사 타나토스의 활약으로 모로크는 봉인됐으나, 그 봉인의 여파로 일대가 사막이 되었습니다. 오아시스를 중심으로 도시가 형성되었는데, 모로크가 봉인된 지역이라 도시명이 모로크가 되었습니다. 최근 모로크가 봉인을 깨는 바람에 도시와 인근 사막이 다시 파괴되고, 도시는 새로이 재건 되었습니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[도둑 길드]<INFO>moc_prydb1,39,126,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[어쌔신 길드]<INFO>moc_fild16,206,290,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
+			"오아시스를 중심으로 발달한 사막도시 특유의 문화와 함께, 고대에 세워진 수수께끼의 건축물, 구시대의 방어요새, 사막의 위협 개미굴 등이 존재합니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[피라미드]<INFO>moc_ruins,64,162,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[스핑크스]<INFO>moc_fild19,105,100,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[산다르만 요새]<INFO>cmd_fild08,98,129,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[개미굴]<INFO>cmd_fild08,326,351,0,101,0</INFO></NAVI>\n\t\t\t\t"
+		}
+	},
+	[4008] = {
+		Title = "산악도시 페이욘",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"룬-미드가츠 남동부 산악에 자리잡은 도시. 복잡한 산과 숲으로 인해 외부와 오랫동안 단절된 탓에 상당히 독자적인 문화를 형성하고 있습니다. 사성수의 가호를 받는다거나 신수에 대한 이야기가 많습니다. 뛰어난 명사수와 사냥꾼이 많으며 북쪽 동굴에는 폐가촌이 있습니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[궁수 길드]<INFO>payon_in02,64,71,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[페이욘 불상]<INFO>pay_arche,137,31,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[폐가촌]<INFO>pay_dun03,155,147,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4009] = {
+		Title = "항구도시 알베르타",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"미드가르드의 모든 물길과 연결되는 항구를 가진 도시이며, 상인길드가 위치하고 있기 때문에 상업도시라고도 불립니다. 물길을 통한 미지의 탐험을 즐기는 자들과 돈의 흐름을 읽는 자들이 모이는 곳입니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[상인 길드]<INFO>alberta_in,56,43</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4010] = {
+		Title = "국경도시 알데바란",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"묘르닐 산맥 북부, 슈발츠발드와의 경계선 바로 아래에 위치해 있습니다. 중앙에 거대한 시계탑을 중심으로 사방으로 뻗은 운하가 아름다운 도시입니다. 북쪽에 국경검문소가 있습니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4011] = {
+		Title = "휴양도시 코모도",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"남서부 해안 아래 형성 된 동굴을 끼고 있는 신비한 마을. 휴양을 목적으로 찾아오는 관광객들이 많은 곳이라 지역 명물 상품도 많이 개발되었습니다. 인근에 습지와 밀림, 비밀을 품은 동굴을 가지고 있어 탐험가들에게도 매력적인 장소라고 합니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4012] = {
+		Title = "부족마을 움발라",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"코모도 북쪽 밀림지대에 있는 작은 부족마을. 문명과 동떨어져 태초의 생활방식 그대로를 고수하며 살아가는 부족들의 마을입니다. 세계수 이그드라실의 뿌리가 닿아있다는 이야기가 있습니다. 대륙 공용어를 사용하지 않으니 주의가 필요합니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4013] = {
+		Title = "위성도시 이즈루드",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"프론테라 동쪽 해안에 위치한 작은 도시. 수도 프론테라를 보조하기 위해 형성된 위성도시입니다. 모험가 양성을 위한 지원기관 크리투라 학원과 검사 길드가 있으며, 작은 항구도 겸하고 있습니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[검사 길드]<INFO>izlude_in,74,172</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4040] = {
+		Title = "슈발츠발드 공화국",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"현자의 도시 유노를 수도로 하는 묘르닐 북부의 나라. 대통령과 의회를 구성한 공화정을 채택하고 있으며, 거대한 기업 레켄베르로 인해 공업이 발달한 나라입니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4050] = {
+		Title = "아루나펠츠 교국",
+		Search = 1,
+		Image = "",
+		Imgcoord = { Position = 5, Size = 100 },
+		Page = {
+			"여신 프레이야를 모시는 제정일치의 종교국가입니다. 주신이 오딘인 룬-미드가츠와는 과거 성전 이후 종교적 문제로 마찰이 있어 사이가 좋지 않습니다. 당시 종교적으로 박해받던 이들이 이주를 해 건설한 나라가 아루나펠츠입니다. 수도 라헬에는 거대한 신전 세스룸니르가 있습니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	}
+}
+
+function main()
+	for DocumentNum, INFO in pairs(tbl) do
+		result, msg = AddTip(DocumentNum, INFO.Title, INFO.Search, INFO.Image)
+		if not result == true then
+			return false, msg
+		end
+		result, msg = AddImgcoord(DocumentNum, INFO.Imgcoord.Position, INFO.Imgcoord.Size)
+		if not result == true then
+			return false, msg
+		end
+		if not INFO.PageEX == true then
+			result, msg = AddPageEx(DocumentNum, -1, 0, 0, 0, 0, 0, 0, 0)
+			if not result == true then
+				return false, msg
+			end
+		else
+			for k, v in pairs(INFO.PageEX) do
+				result, msg = AddPageEx(DocumentNum, v.EffectNum, v.Twinkle, v.StartX, v.StartY, v.DistX, v.DistY, v.MoveTime)
+				if not result == true then
+					return false, msg
+				end
+			end
+		end
+		for k, v in pairs(INFO.Page) do
+			result, msg = AddPage(DocumentNum, v)
+			if not result then
+				return false, msg
+			end
+		end
+	end
+	return true, "good"
+end

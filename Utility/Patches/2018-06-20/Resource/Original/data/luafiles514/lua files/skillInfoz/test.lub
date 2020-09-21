@@ -1,0 +1,20 @@
+math.randomseed(os.time())
+JOBID = {}
+setmetatable(JOBID, {
+function __index()
+	return math.ceil(math.random() * 100)
+end
+})
+dofile("skillid.lua")
+dofile("skillinfolist.lua")
+dofile("SkillTreeView_web.lua")
+for k in pairs(SKILL_TREEVIEW_FOR_JOB) do
+jobskill = SKILL_TREEVIEW_FOR_JOB[k]
+for kk in pairs(jobskill) do
+print(k, jobskill[kk])
+end
+local (for state) = jobskill
+goto 0_[39]
+end
+k = LubFunction
+goto 0_[41]
