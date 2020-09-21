@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="gb2312"?>
+
+<clientinfo>
+	<servicetype>china</servicetype>
+	<servertype>primary</servertype>
+	<extendedslot>2</extendedslot>
+	<connection>
+		<display>[测试] LeeClient - 单机测试</display>
+		<balloon></balloon>
+		<address>127.0.0.1</address>
+		<port>6900</port>
+		<version>46</version>
+		<langtype>3</langtype>
+		<aid>
+		<admin>2000000</admin>
+		</aid>
+		<registrationweb>https://rathena.cn</registrationweb>
+	</connection>
+</clientinfo>
